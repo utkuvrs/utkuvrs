@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Utku Aydos!
 - 👀 I’m interested in Flutter and mobile application development.
 - 🌱 I’m currently mastering Flutter.
-- 📫 How to reach me utkuaydos1@gmail.com or 21kkfy@gmail.com
+- 📫 How to reach me utkuaydos1@gmail.com
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkuvrs)](https://github.com/utkuvrs/github-readme-stats) --->
 <!---
