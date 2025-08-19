@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter and mobile application development.
 - 🌱 I’m currently mastering Flutter.
 - 📫 How to reach me utkuaydos1@gmail.com
-
+- 📚 [Stack Overflow](https://stackoverflow.com/users/18203774/utkuaydos)
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkuvrs)](https://github.com/utkuvrs/github-readme-stats) --->
 <!---
 utkuvrs/utkuvrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
